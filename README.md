@@ -10,3 +10,8 @@ Here are some cool DALL-E images I've generated:
     <br>Left: Hex Maniac prays before bed, painted by John William Waterhouse.
     <br>Right: Asuka from Evangelion converts to Christianity, lithograph.
 </p>
+
+```
+For school I have to work with Java. I prefer working with C as it is closer to God.
+In terms of web I try to avoid anything too bloated or insane. I do write some php however.
+```
