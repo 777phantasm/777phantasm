@@ -9,7 +9,7 @@ Here are some cool DALL-E generations I've prompted:
     <img src="https://raw.githubusercontent.com/777phantasm/777phantasm/main/DALL%C2%B7E%202022-08-12%2009.10.27%20-%20Bridget%20from%20Guilty%20Gear%20praying%2C%20lithograph.png" width="25%">
     <img src="https://raw.githubusercontent.com/777phantasm/777phantasm/main/DALL%C2%B7E%202022-07-31%2001.32.16%20-%20Asuka%20from%20Evangelion%20converts%20to%20Christianity%2C%20lithograph.png" width="25%">
     <br>Left: Hex Maniac prays before bed, painted by John William Waterhouse.
-    <br>Center: Briget from Guilty Gear praying, lithograph.
+    <br>Center: Bridget from Guilty Gear praying, lithograph.
     <br>Right: Asuka from Evangelion converts to Christianity, lithograph.
 </p>
 
