@@ -16,4 +16,5 @@ Here are some cool DALL-E generations I've prompted:
 ```
 For school I have to work with Java. I prefer working with C as it is closer to God.
 In terms of web I try to avoid anything too bloated or insane. I do write some php however.
+I use artix btw
 ```
