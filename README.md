@@ -1,6 +1,8 @@
 ```
 hi!
-this profile is for storing code for sheridan courses and personal projects, and to demonstrate some prior learning experience
+this profile is for storing code for sheridan courses and personal projects, and to demonstrate some prior learning
+experience
+
 here are some cool dall-e generation i've prompted:
 ```
 
