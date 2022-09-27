@@ -1,7 +1,7 @@
 ```
-Hello.
-This profile exists to store code for some classes and personal projects, and to demonstrate some prior learning experience.
-Here are some cool DALL-E generations I've prompted:
+hi!
+this profile is for storing code for sheridan courses and personal projects, and to demonstrate some prior learning experience
+here are some cool dall-e generation i've prompted:
 ```
 
 <p align="center" font-size="x-small">
