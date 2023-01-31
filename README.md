@@ -1,3 +1,8 @@
+<p align="center" font-size="x-small">
+    <img src="https://raw.githubusercontent.com/777phantasm/777phantasm/main/wordart.png" width="40%">
+</p>
+
+
 ```
 hi!
 this profile is for storing code / markup for classes and personal projects, and to demonstrate some prior learning
