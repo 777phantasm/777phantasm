@@ -1,6 +1,6 @@
-<p align="center" font-size="x-small">
+<!-- <p align="center" font-size="x-small">
     <img src="https://raw.githubusercontent.com/777phantasm/777phantasm/main/wordart.png" width="40%">
-</p>
+</p> -->
 
 
 ```
