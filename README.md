@@ -23,7 +23,7 @@ here are some cool dall-e generations i've prompted:
 </p>
 
 ```
-i like to program in c and lua, although i am currently learning rust
+i am currently learning react
 
 777
 ```
