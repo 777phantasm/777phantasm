@@ -4,7 +4,7 @@
 
 
 ```
-hi!
+hey!!
 this profile is for storing code / markup for classes and personal projects, and to demonstrate some prior learning
 experience
 
@@ -24,6 +24,14 @@ here are some cool dall-e generations i've prompted:
 
 ```
 i am currently chilling and vibing and just having a coolgirl summer
-
+i am a pog girl
+i am really awsome
+i say bruh!
+i do not clean my room
+i am beautiful
+i am an amongus fan (excited to play it for the first time)
+i am the best at what i do
+in the right lighting conditions i am a 7/10
+i will be okay!!
 777
 ```
