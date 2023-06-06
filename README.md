@@ -23,7 +23,7 @@ here are some cool dall-e generations i've prompted:
 </p>
 
 ```
-i am currently learning react
+i am currently chilling and vibing and just having a coolgirl summer
 
 777
 ```
